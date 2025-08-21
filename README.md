@@ -119,7 +119,7 @@
 
 
 
-### UI component patterns
+### UI Component Patterns
 
 
 #### nvabar
