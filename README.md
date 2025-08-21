@@ -70,7 +70,7 @@
   ##### UI Component patterns
 planned components
 
-## Navbar
+1## Navbar
 
    * Logo
 
