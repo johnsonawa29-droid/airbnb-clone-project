@@ -115,9 +115,14 @@
 | Scrum Master          | Facilitates agile processes, removes blockers, organizes meetings  |
 
 
+
+
+
+
 ### UI component patterns
 
 planned components
+
 
 #### nvabar
   * logo
