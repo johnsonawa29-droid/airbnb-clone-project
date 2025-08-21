@@ -115,7 +115,7 @@ planned components
 | Scrum Master          | Facilitates agile processes, removes blockers, organizes meetings  |
 
 
-### UI Component patterns
+### UI component patterns
 
 planned components
 
