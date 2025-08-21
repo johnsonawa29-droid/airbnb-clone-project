@@ -22,7 +22,7 @@
 * design tools:figma ui/ux design
 
 
-# UI/UX Design planning
+# UI/UX Design Planning
 
 * to create intuitive booking flow
 
