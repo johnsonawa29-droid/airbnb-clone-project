@@ -70,7 +70,7 @@
   ##### UI Component patterns
 planned components
 
-###1 Navbar
+### Navbar
 
    * Logo
 
@@ -80,7 +80,7 @@ planned components
 
    * responsive manu
 
-###2 property card 
+### property card 
 
    * property image
 
@@ -90,7 +90,7 @@ planned components
 
    * responsive layout
      
-####3 footer 
+#### footer 
 
     * site links 
     
