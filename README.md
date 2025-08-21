@@ -13,6 +13,6 @@
  
  * html,css,javascript and react
    
-##version control:git and github
+*version control:git and github
 
-#design tools:figma ui/ux design
+*design tools:figma ui/ux design
