@@ -1,7 +1,13 @@
  # airbnb-clone-project.
 
  # Project Overview
- * this project is to build a functional web application that allow user to browe property listings view detailed property information and complete booking
+ * this project is to build a functional web application
+
+  ### project goals
+
+   *to build a functional web application that allows users to browse property listings,view detailed property 
+   information,and complete bookings.
+   
  * tech stack
  * html,css,javascript and react
  * 
