@@ -70,7 +70,7 @@
   ##### UI Component patterns
 planned components
 
-1## Navbar
+##1 Navbar
 
    * Logo
 
@@ -79,5 +79,7 @@ planned components
    * user navigation
 
    * responsive manu
+
+   * 
 
 
