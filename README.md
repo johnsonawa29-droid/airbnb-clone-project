@@ -121,8 +121,6 @@
 
 ### UI component patterns
 
-planned components
-
 
 #### nvabar
   * logo
