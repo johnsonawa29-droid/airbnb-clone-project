@@ -65,3 +65,19 @@
   * secondary Text:circular,book(400),14px
 
   * it ensure consistency when designing and its save time,allow designer to refines the design and create better user experience
+ 
+
+  ##### UI Component patterns
+planned components
+
+## Navbar
+
+   * Logo
+
+   * search bar 
+
+   * user navigation
+
+   * responsive manu
+
+
