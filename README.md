@@ -10,8 +10,10 @@
 
    
  #### tech stack
+
  
  * html,css,javascript and react
+   
    
 *version control:git and github
 
@@ -28,3 +30,23 @@
 * ensure fast laoding times
 
 * priiritize moblie responsiveness
+
+  ## key features
+  
+  * property search and filtering
+
+  * Detailed property viewing
+
+  * secure checkout process
+ 
+  * user authentication
+ 
+  ### Description of the three primary pages
+
+  * property listing view
+ 
+  * listing detailed view
+ 
+  * simple checkout view  
+  
+  
