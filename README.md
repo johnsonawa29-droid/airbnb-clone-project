@@ -7,10 +7,12 @@
 
    *to build a functional web application that allows users to browse property listings,view detailed property 
    information,and complete bookings.
+
    
- * tech stack
+ #### tech stack
+ 
  * html,css,javascript and react
- * 
+   
 ##version control:git and github
 
 #design tools:figma ui/ux design
