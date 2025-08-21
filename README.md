@@ -51,5 +51,17 @@
   * simple checkout view  
 
   #### explain the impotance of a user-friendly design in a booking system.
-  
-  
+
+
+
+  # Objective:undertand and explore the figma environment
+
+  * typography :
+ 
+  * primaery font:circular,medium(500),16px
+ 
+  * headings:circular,Bold(700),24px-32px
+ 
+  * secondary Text:circular,book(400),14px
+
+  * it ensure consistency when designing and its save time,allow designer to refines the design and create better user experience
