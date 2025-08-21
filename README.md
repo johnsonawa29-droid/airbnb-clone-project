@@ -67,8 +67,8 @@
   * it ensure consistency when designing and its save time,allow designer to refines the design and create better user experience
  
 
-  ##### UI Component patterns
-planned components
+  ##### "UI Component patterns"
+        planned components
 
 ### Navbar
 
