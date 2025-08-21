@@ -17,3 +17,14 @@
 
 
 *design tools:figma ui/ux design
+
+
+# ui/ux Design planning
+
+* to create intuitive booking flow
+
+* maintain visual consistency
+
+* ensure fast laoding times
+
+* priiritize moblie responsiveness
