@@ -70,7 +70,7 @@
   ##### UI Component patterns
 planned components
 
-## Navbar
+###1 Navbar
 
    * Logo
 
@@ -80,6 +80,25 @@ planned components
 
    * responsive manu
 
-### property card 
+###2 property card 
+
+   * property image
+
+   * basic detail (price location, rating  )
+
+   * favorite button
+
+   * responsive layout
+     
+####3 footer 
+
+    * site links 
+    
+    * conpany infortion
+    
+    * social media links
+    
+    *copyright information
+
 
 
