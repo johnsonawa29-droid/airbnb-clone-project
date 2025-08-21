@@ -115,3 +115,37 @@ planned components
 | Scrum Master          | Facilitates agile processes, removes blockers, organizes meetings  |
 
 
+### UI Component patterns
+
+planned components
+
+#### nvabar
+  * logo
+
+  * search bar
+
+  * user navigation
+
+  * responsive menu
+
+#### property card
+
+   * property image
+
+   * basic detail (price,location,rating
+
+   * favorite button
+
+   * responsive layout
+
+#### footer
+
+    * site link
+
+    * company information
+
+    * socail media links
+
+    * copyright information
+
+
