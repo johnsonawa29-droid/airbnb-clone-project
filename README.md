@@ -6,7 +6,7 @@
 
   ### project goals
 
-   * to build a functional web application that allows users to browse property listings,view detailed property 
+   * to build a functional web application that allows users to browse property listings, view detailed property 
    information,and complete bookings.
 
    
@@ -54,11 +54,11 @@
 
 
 
-  # Objective:undertand and explore the figma environment
+  # Objective:understand and explore the figma environment
 
   * typography :
  
-  * primaery font:circular,medium(500),16px
+  * primary font:circular,medium(500),16px
  
   * headings:circular,Bold(700),24px-32px
  
@@ -78,7 +78,7 @@
 
    * user navigation
 
-   * responsive manu
+   * responsive menu
 
 ### property card 
 
@@ -94,7 +94,7 @@
 
     * site links 
     
-    * conpany infortion
+    * company information
     
     * social media links
     
