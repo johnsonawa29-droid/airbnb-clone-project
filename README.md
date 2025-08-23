@@ -122,7 +122,7 @@
 ### UI Component Patterns
 
 
-#### nvabar
+#### navbar
   * logo
 
   * search bar
